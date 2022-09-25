@@ -10,5 +10,5 @@ at an early research program called ERSP. Outside of school, I enjoy doing other
 
 ### Reach me out!
 
-@bryant.tan on *instagram*    
+@bryant.tn on *instagram*    
 **or** bryant.tan2103@gmail.com
