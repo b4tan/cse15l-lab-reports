@@ -15,5 +15,5 @@ at an early research program called ERSP. Outside of school, I enjoy doing other
 
 ### Links for my work   
 
-[Lab Report 1]([lab-report-1-week-0.html](https://github.com/b4tan/cse15l-lab-reports/blob/main/lab-report-1-week-0.md))     
-[Branch]([branch.html](https://github.com/b4tan/cse15l-lab-reports/blob/main/branch.md))
+[Lab Report 1](lab-report-1-week-0.html)    
+[Branch](branch.html)
