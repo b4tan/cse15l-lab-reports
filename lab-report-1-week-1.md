@@ -7,7 +7,7 @@
 
 This is the easiest step. Download from the site below.
 &nbsp;
-![vscode](VSCODE1.png) {:width="300px" align="center"}
+![vscode](VSCODE1.png) {: width = "300px " align = "center"}
 
 Then, when you've installed it. Launch VS CODE
 &nbsp;
