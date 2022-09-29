@@ -80,4 +80,4 @@ Importing the key to the remote machine.
 Now, we can run commands on the remote machine without the tedious process of logging in first.    
 Here are the examples:
   
-![end](end.png)
+![end](End.png)
