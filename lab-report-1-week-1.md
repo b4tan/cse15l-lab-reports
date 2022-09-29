@@ -17,8 +17,8 @@ Then, when you've installed it. Launch VS CODE
 ## 2. Remotely connecting
 
 Now, you want to get your course specific account/User ID to log in to UCSD's server at:     
-https://sdacs.ucsd.edu/~icc/index.php
-Reset the password and then run the commands at VS CODE's terminal.    
+https://sdacs.ucsd.edu/~icc/index.php             
+Reset the password and then run the commands below at VS CODE's terminal.    
 
 ![remote](remote_access.png)
 
