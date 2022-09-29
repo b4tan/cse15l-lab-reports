@@ -5,13 +5,13 @@
 
 ## 1. Installing VS CODE
 
-This is the easiest step. Download from the site below.
-&nbsp;&nbsp;&nbsp;&nbsp;
-![vscode](VSCODE1.png)
+This is the easiest step. Download from the site below.      
+
+![vscode](VSCODE1.png){: height="75px" width="300px" style="float:left; padding-right:10px" }
 
 Then, when you've installed it. Launch VS CODE
 &nbsp;
-![vscode1](VSCODE.png)
+
 
 ## 2. Remotely connecting
 
