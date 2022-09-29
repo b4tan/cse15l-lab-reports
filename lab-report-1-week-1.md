@@ -6,8 +6,8 @@
 ## 1. Installing VS CODE
 
 This is the easiest step. Download from the site below.
-&nbsp;
-![vscode](VSCODE1.png) {: width = 300px align = "center"}
+&nbsp;&nbsp;&nbsp;&nbsp;
+![vscode](VSCODE1.png)
 
 Then, when you've installed it. Launch VS CODE
 &nbsp;
