@@ -28,7 +28,14 @@ continue connecting. Type in **yes**.
 
 
 ## 3. Trying some commands
-
+Try these commands out.
+-cd ~
+-cd
+-ls -lat
+-ls -a
+-ls <directory> where <directory> is /home/linux/ieng6/cs15lfa22/cs15lfa22abc, where the abc is one of the other group members’ username
+-cp /home/linux/ieng6/cs15lfa22/public/hello.txt ~/
+-cat /home/linux/ieng6/cs15lfa22/public/hello.txt
 
 ## 4. Moving files using scp
 
