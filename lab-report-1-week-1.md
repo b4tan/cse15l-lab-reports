@@ -36,6 +36,10 @@ Try these commands out.
 - ls <directory> where <directory> is /home/linux/ieng6/cs15lfa22/cs15lfa22abc, where the abc is one of the other group members’ username
 - cp /home/linux/ieng6/cs15lfa22/public/hello.txt ~/
 - cat /home/linux/ieng6/cs15lfa22/public/hello.txt
+  
+The results will be like this.
+  
+![tryingout](trying_commands.png)
 
 ## 4. Moving files using scp
 
