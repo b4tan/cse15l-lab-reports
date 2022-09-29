@@ -7,10 +7,10 @@
 
 This is the easiest step. Download from the site below.      
 
-![vscode](VSCODE1.png){: height="75px" width="300px" style="float:left; padding-right:10px" }
+![vscode](VSCODE1.png)
 
-Then, when you've installed it. Launch VS CODE
-&nbsp;
+Then, when you've installed it. Launch VS CODE         
+![vscode1](VSCODE.png)
 
 
 ## 2. Remotely connecting
