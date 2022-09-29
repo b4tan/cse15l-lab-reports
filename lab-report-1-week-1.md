@@ -18,7 +18,7 @@ Then, when you've installed it. Launch VS CODE
 
 Now, you want to get your course specific account/User ID to log in to UCSD's server at:     
 https://sdacs.ucsd.edu/~icc/index.php             
-Reset the password and then type in *ssh 'cs15lfa22zz@ieng6.ucsd.edu'* where zz
+Reset the password and then type in *ssh cs15lfa22zz@&#65279;ieng6.ucsd.edu* where zz
 is your unique id. It will ask you to type in your password you just reset.     
 
 ![remote](remote_access.png)
