@@ -33,7 +33,8 @@ Try these commands out.
 - cd
 - ls -lat
 - ls -a
-- ls <directory> where <directory> is /home/linux/ieng6/cs15lfa22/cs15lfa22abc, where the abc is one of the other group members’ username
+- ls <directory> where <directory> is /home/linux/ieng6/cs15lfa22/cs15lfa22abc,     
+  where the abc is one of the other group members’ username
 - cp /home/linux/ieng6/cs15lfa22/public/hello.txt ~/
 - cat /home/linux/ieng6/cs15lfa22/public/hello.txt
   
@@ -41,8 +42,17 @@ The results will be like this.
   
 ![tryingout](trying_commands.png)
 
+These commands are the ones we learned during the first day of lecture. Revisit topics if necessary.
+  
 ## 4. Moving files using scp
+  
+In this task, we will have to make a file at your local machine (WhereAmI.java) and import it
+to UCSD's server or the remote machine.
 
+![whereami](where_am_i.png)
+  
+Then, we will use this command at your local machine to move it        
+**scp WhereAmI.java cs15lfa22zz@&#65279;ieng6.ucsd.edu:~/**
 
 ## 5. Setting a SSH Key
 
