@@ -64,5 +64,15 @@ If successful, the results will be like this,
 
 ## 5. Setting a SSH Key
 
+Now, entering your password every now and then is quite tedious. We can set up an SSH key at your local     
+machine and then import it to the remote machine. The process can be done by the commands below.
 
+Initiallizing the key at local machine.
+  
+![keygen1](keygen_1.png)
+  
+Importing the key to the remote machine.
+
+![keygen2](keygen_2.png)
+  
 ## 6. Optimizing remote running
