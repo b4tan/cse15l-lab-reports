@@ -50,9 +50,17 @@ In this task, we will have to make a file at your local machine (WhereAmI.java) 
 to UCSD's server or the remote machine.
 
 ![whereami](where_am_i.png)
-  
+
+We can test out the functionality of this file using the commands below.     
+
+![whereami1](where_am_i_1.png)
+
 Then, we will use this command at your local machine to move it        
 **scp WhereAmI.java cs15lfa22zz@&#65279;ieng6.ucsd.edu:~/**
+
+If successful, the results will be like this,    
+  
+![scp](scp.png)
 
 ## 5. Setting a SSH Key
 
