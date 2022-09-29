@@ -76,3 +76,8 @@ Importing the key to the remote machine.
 ![keygen2](keygen_2.png)
   
 ## 6. Optimizing remote running
+  
+Now, we can run commands on the remote machine without the tedious process of logging in first.    
+Here are the examples:
+  
+![end](end.png)
