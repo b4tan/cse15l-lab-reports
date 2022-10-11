@@ -89,7 +89,9 @@ We can check in the remote server if the key is there.
   
 ## 6. Optimizing remote running
   
-Now, we can run commands on the remote machine without the tedious process of logging in first.    
-Here are the examples:
+Now, we can do new stuff because we have initiallized an ssh key in the remote server.    
+For example, we can run multiple commands on a single line at the remote machine without      
+the tedious process of logging in first.    
+Here are some examples:
   
 ![end](End.png)
