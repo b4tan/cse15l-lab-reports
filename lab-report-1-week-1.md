@@ -5,7 +5,8 @@
 
 ## 1. Installing VS CODE
 
-This is the easiest step. Download from the site below.      
+This is the easiest step. Download from the site below.
+https://code.visualstudio.com/download
 
 ![vscode](VSCODE1.png)
 
@@ -55,12 +56,16 @@ We can test out the functionality of this file using the commands below.
 
 ![whereami1](where_am_i_1.png)
 
-Then, we will use this command at your local machine to move it        
+Then, we will use this command at your **local machine** to move it to the **remote server**.        
 **scp WhereAmI.java cs15lfa22zz@&#65279;ieng6.ucsd.edu:~/**
 
 If successful, the results will be like this,    
   
 ![scp](scp.png)
+ 
+We can check if the file transfer is succesful by logging into the server and look up the content.
+  
+![scp_success](scp_success.png)
 
 ## 5. Setting a SSH Key
 
