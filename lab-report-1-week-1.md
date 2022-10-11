@@ -94,3 +94,6 @@ without the tedious process of logging in first.
 Here are some examples:
   
 ![end](End.png)
+
+For the first code, we can see that " " marks are used to directly use the command before        
+logging in. For the second code, we can see that ; are used to run multiple commands.
