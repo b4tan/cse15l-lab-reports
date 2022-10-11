@@ -5,8 +5,7 @@
 
 ## 1. Installing VS CODE
 
-This is the easiest step. Download from the site below.
-https://code.visualstudio.com/download
+This is the easiest step. Download from this *[site](https://code.visualstudio.com/download)*.
 
 ![vscode](VSCODE1.png)
 
