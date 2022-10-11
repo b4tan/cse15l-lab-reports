@@ -76,9 +76,16 @@ Initiallizing the key at local machine.
   
 ![keygen1](keygen_1.png)
   
-Importing the key to the remote machine.
+You can see that there is a **mkdir .ssh** command after logging into the remote server.      
+This command makes a directory at the remote server where we will save our ssh keygen. 
+  
+Now that we have generated a SSH key, we should import it to the remote server and save it.
 
 ![keygen2](keygen_2.png)
+  
+We can check in the remote server if the key is there.
+
+![keygen_success](key_gen_success.png)
   
 ## 6. Optimizing remote running
   
