@@ -3,7 +3,7 @@
 
 ## Search Engine
 
-'''
+
 
 	class Handler implements URLHandler {
 	    // The one bit of state on the server: a number that will be manipulated by
@@ -48,7 +48,7 @@
 		Server.start(port, new Handler());
 	    }
 	}
-'''
+
                   
 #### The page when you first launch
 			
@@ -69,8 +69,30 @@
 
 #### ArrayExamples
 
+The actual code
+
+	  // Changes the input array to be in reversed order
+	  static void reverseInPlace(int[] arr) {
+	    for(int i = 0; i < arr.length; i += 1) {
+	      arr[i] = arr[arr.length - i - 1];
+	    }
+	  }
+
+	  // Returns a *new* array with all the elements of the input array in reversed
+	  // order
+	  static int[] reversed(int[] arr) {
+	    int[] newArray = new int[arr.length];
+	    for(int i = 0; i < arr.length; i += 1) {
+	      arr[i] = newArray[arr.length - i - 1];
+	    }
+	    return arr;
+	  }
+
 ![arr](array.png)             
-![arr_errors](array_errors.png)        
+![arr_errors](array_errors.png)
+
+The fix required:
+
 ![arr_fixed](array_fixed.png)  
 
 
@@ -78,7 +100,10 @@
 
 #### LinkedList
 
-![linked](array.png)             
-![linked_errors](linked_errors.png)        
+![linked](linked.png)             
+![linked_errors](linked_errors.png) 
+
+The fix required:
+
 ![linked_fixed](linked_fixed.png)      
 
