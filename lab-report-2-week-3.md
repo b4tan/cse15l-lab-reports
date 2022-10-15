@@ -87,8 +87,12 @@ The actual code
 	    }
 	    return arr;
 	  }
+My test values:
 
-![arr](array.png)             
+![arr](array.png)  
+
+The error:
+
 ![arr_errors](array_errors.png)
 
 The fix required:
@@ -120,7 +124,12 @@ The actual code:
         }
     }
 
-![linked](linked1.png)             
+My test values:
+
+![linked](linked1.png)      
+
+The error:
+
 ![linked_errors](linked_error.png) 
 
 The fix required:
