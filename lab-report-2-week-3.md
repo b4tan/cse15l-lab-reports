@@ -66,6 +66,19 @@
 ![a](a.png)       
                   
 ## Debugging
-![arr](array.png)          
+
+#### ArrayExamples
+
+![arr](array.png)             
 ![arr_errors](array_errors.png)        
 ![arr_fixed](array_fixed.png)  
+
+
+
+
+#### LinkedList
+
+![linked](array.png)             
+![linked_errors](linked_errors.png)        
+![linked_fixed](linked_fixed.png)      
+
