@@ -60,8 +60,8 @@ class SearchEngine {
 Adding a bunch of stuff to the dictionary..
 
 ![apple](apple.png)          
-![pineapple](pineapple.png)
-![orange](orange.png)
+![pineapple](pineapple.png)        
+![orange](orange.png)         
 
 Searching for the added terms in the dictionary...
 			
