@@ -1,5 +1,5 @@
 
-#Lab Report 2
+# Lab Report 2
 
 ## Search Engine
 
@@ -57,13 +57,13 @@ class SearchEngine {
 			
 ![localhost](localhost.png)
 
-Adding a bunch of stuff to the dictionary..
+#### Adding a bunch of stuff to the dictionary..
 
 ![apple](apple.png)          
 ![pineapple](pineapple.png)        
 ![orange](orange.png)         
 
-Searching for the added terms in the dictionary...
+#### Searching for the added terms in the dictionary...
 			
 ![applepineapple](apple_pineapple.png)              
 ![a](a.png)       
