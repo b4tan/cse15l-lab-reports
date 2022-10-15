@@ -67,5 +67,5 @@
                   
 ## Debugging
 ![array](array.png)          
-![array errors](array errors.png)        
-![array fixed](array fixed.png)  
+![array errors](array_errors.png)        
+![array fixed](array_fixed.png)  
