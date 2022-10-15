@@ -54,10 +54,17 @@ class SearchEngine {
 '''
                   
 #### The page when you first launch
-![localhost](localhost.png)         
+			
+![localhost](localhost.png)
+
+Adding a bunch of stuff to the dictionary..
+
 ![apple](apple.png)          
-![pineapple](pinapple.png)         
-![applepineapple](apple_pineapple.png)        
-![orange](orange.png)       
+![pineapple](pineapple.png)
+![orange](orange.png)
+
+Searching for the added terms in the dictionary...
+			
+![applepineapple](apple_pineapple.png)              
 ![a](a.png)       
                   
