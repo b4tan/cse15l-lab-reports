@@ -66,6 +66,6 @@
 ![a](a.png)       
                   
 ## Debugging
-![array](array.png)          
-![array errors](array_errors.png)        
-![array fixed](array_fixed.png)  
+![arr](array.png)          
+![arr_errors](array_errors.png)        
+![arr_fixed](array_fixed.png)  
