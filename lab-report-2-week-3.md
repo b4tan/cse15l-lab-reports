@@ -100,6 +100,14 @@ The fix required:
 
 #### LinkedList
 
+The actual code:
+
+    public void append(int value) {
+        if(this.root == null) {
+            this.root = new Node(value, null);
+            return;
+        }
+
 ![linked](linked.png)             
 ![linked_errors](linked_errors.png) 
 
