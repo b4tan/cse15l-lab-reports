@@ -66,10 +66,6 @@
 ![a](a.png)       
                   
 ## Debugging
-'''
-	    public void append(int value) {
-		if(this.root == null) {
-		    this.root = new Node(value, null);
-		    return;
-		}
-'''
+![array](array.png)          
+![array errors](array errors.png)        
+![array fixed](array fixed.png)  
