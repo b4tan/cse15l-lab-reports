@@ -65,3 +65,4 @@
 ![applepineapple](apple_pineapple.png)              
 ![a](a.png)       
                   
+## Debugging
