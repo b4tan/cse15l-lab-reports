@@ -67,9 +67,9 @@
                   
 ## Debugging
 '''
-    public void append(int value) {
-        if(this.root == null) {
-            this.root = new Node(value, null);
-            return;
-        }
+	    public void append(int value) {
+		if(this.root == null) {
+		    this.root = new Node(value, null);
+		    return;
+		}
 '''
