@@ -108,7 +108,7 @@ The actual code:
             return;
         }
 
-![linked](linked.png)             
+![linked](linked1.png)             
 ![linked_errors](linked_error.png) 
 
 The fix required:
