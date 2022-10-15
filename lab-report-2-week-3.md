@@ -54,10 +54,10 @@ class SearchEngine {
 '''
                   
 #### The page when you first launch
-![localhost](localhost.png)
-![apple](apple.png)
-![pineapple](pinapple.png)
-![applepineapple](apple_pineapple.png)
-![orange](orange.png)
-![a](a.png)
+![localhost](localhost.png)         
+![apple](apple.png)          
+![pineapple](pinapple.png)         
+![applepineapple](apple_pineapple.png)        
+![orange](orange.png)       
+![a](a.png)       
                   
