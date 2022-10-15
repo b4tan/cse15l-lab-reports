@@ -109,7 +109,7 @@ The actual code:
         }
 
 ![linked](linked.png)             
-![linked_errors](linked_errors.png) 
+![linked_errors](linked_error.png) 
 
 The fix required:
 
