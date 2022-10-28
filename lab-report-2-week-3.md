@@ -73,7 +73,8 @@ The algorithm running here is in the else if conditional "else if (url.getPath()
 
 #### ArrayExamples
 
-The actual code
+The actual code         
+Ignore the method "reverseInPlace" and focus on "reversed.
 
 	  // Changes the input array to be in reversed order
 	  static void reverseInPlace(int[] arr) {
@@ -99,10 +100,11 @@ The error:
 
 ![arr_errors](array_errors.png)
 
+Here, we can see that I tested the method reversed using testReversed1 and the array [0 , 1, 2] as input. I expect that testReversed1 should return [2, 1, 0] based on how the code is described to do. However, this is not the case as the algorithm is bugged and this is shown in the error. The error tells us that instead of starting with 2, the first element of the array is still 1. This is becasue the method "reversed" returns the old array or the array being used as input. The method should have returned newArray (input array being reversed).
+
 The fix required:
 
 ![arr_fixed](array_fixed.png)  
-
 
 
 
@@ -136,9 +138,12 @@ The error:
 
 ![linked_errors](linked_error.png) 
 
+Here, we see that after testing the append method using 3 different values, JUnit tells us that the testing the append method takes too much time and causes the OutOfMemory error, which is likely caused by the loop running infinitely. The error here is caused in the last while loop "while(n.next != null)". There, "n.next = new Node(value, null);" should be out of the scope because if it is inside the scope of the while loop, the end of the list will never be null and the loop will run indefinitely.
+
+
 The fix required:
 
 ![linked_fixed](linked_fixed.png)      
 
-The error I think is not related to the actual code. I believe its from my test method/Junit.
+
 
