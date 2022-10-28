@@ -60,11 +60,15 @@
 ![pineapple](pineapple.png)        
 ![orange](orange.png)         
 
+The algorithm running here is in the else if condtional "else if (url.getPath().contains("/add"))". Since I made the algorithm to add String after the '=' operator, we can just type anything after the '=' (localhost:4235/add?s=) operator and the algorithm will save it in our arraylist. The way this works is by splitting the path before and after '='. Anything after '=' is considered parameter[1] and will be added to the arraylist. Aside that, my algorithm also notifies the user if they have added a word. For example here, when I type in "apple", the String "apple" will be saved in the arraylist dictionary and the algorithm will notify the user that "apple" has been added to the arraylist dictionary.
+
 #### Searching for the added terms in the dictionary...
 			
 ![applepineapple](apple_pineapple.png)              
 ![a](a.png)       
-                  
+
+The algorithm running here is in the else if conditional "else if (url.getPath().contains("/search"))". Same as before, the String being searched in the arraylist is parameters[1], which is the string after the '=' operator. After that, I made a dummy arraylist to store the elements that contains the String being searched. For example, when I search "apple", the algorithm goes through a for-loop that looks through all of the elements inside of the arraylist dictionary. If the String being searched is contained in one of the elements of the arraylist dictionary, then that element will be stored in my dummy arraylist temp. At the end of the for-loop iteration, the dummy arraylist filled with the elements that contain the String being searched will be printed.
+
 ## Debugging
 
 #### ArrayExamples
