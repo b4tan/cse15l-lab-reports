@@ -41,7 +41,7 @@ Here, we see that the text is displayed in 64% of its original size. If we scrol
 
 ![less_5](less_g.png) 
 
-Here, I wanted to highlight the word "is".
+Here, I wanted to highlight the word "is". The default syntax requires us to use / (backslash).
 
 ![less_5](is.png) 
 
