@@ -62,5 +62,5 @@ To navigate through the displayed text, we can type in n and the pointer will sh
 
 - We are able to pull up the lines that don't contain the word being searched in the file.
 
-![grep_3](grep_c.png) 
+![grep_3](grep_v.png) 
 
