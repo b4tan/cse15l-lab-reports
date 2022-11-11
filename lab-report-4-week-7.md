@@ -80,13 +80,15 @@ Then, when we hit <Enter> we see that our file was modified by Vim and changes w
 
 ### *Comparison of editing on remote with and without Vim*
   
-Time it took without Vim (Edit with VSC, then scp file, and run on remote) :
+Time it took without Vim (Edit with VSC, then scp file, and run on remote) : 5 minutes 21 seconds.
   
-Time it took with Vim (log into remote, make the changes necessary using Vim, and run) :
+Time it took with Vim (log into remote, make the changes necessary using Vim, and run) : 6 minutes 50 seconds.
   
-Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?
-  
+#### Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?
 
-What about the project or task might factor into your decision one way or another? (If nothing would affect your decision, say so and why!)
-  
+Honestly, I prefer using Vim because we don't have to switch between local-remote but I'm new to Vim and that's why it takes longer.
+
+#### What about the project or task might factor into your decision one way or another? (If nothing would affect your decision, say so and why!)
+
+If I'm doing everything locally and I don't have to run the file on remote, then I wouldn't need Vim because VSC is capable of doing everything. However, if we are talking about running the code on remote, I'd rahter use Vim and make changes there.
 
