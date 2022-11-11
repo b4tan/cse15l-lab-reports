@@ -66,7 +66,7 @@ Then we can basically do the same thing with the first occurrence of "start" usi
   
 "base" and Esc
 
-![base1][base_1.png]
+![base1](base_1.png)
   
 After we are satisfied with the changes, we type in ':wq', which means save then quit vim.
   
