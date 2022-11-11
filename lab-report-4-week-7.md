@@ -34,9 +34,6 @@ After that, we would want to go to insert from normal mode and type in the strin
 
 ![i_1](i_1.png)
  
-![after_i](after_i.png)
-  
-  
 After we have made the changes, we can directly go to the next occurrence of the string "start" by using 'n'
   
 ![n](n.png)
@@ -51,13 +48,9 @@ Then we can basically do the same thing with the first occurrence of "start" usi
 
 ![i](i.png)
   
-"base"
+"base" and Esc
 
 ![base](base.png)
-  
-<Esc>
-
-![esc](esc.png)
   
 'n'
 
@@ -71,15 +64,11 @@ Then we can basically do the same thing with the first occurrence of "start" usi
 
 ![i2](i_2.png)
   
-"base"
+"base" and Esc
 
 ![base1][base_1.png]
   
-<Esc>
-
-![esc1](esc_1.png)
-  
- After we are satisfied with the changes, we type in ':wq', which means save then quit vim.
+After we are satisfied with the changes, we type in ':wq', which means save then quit vim.
   
 ![wq](wq.png)
   
