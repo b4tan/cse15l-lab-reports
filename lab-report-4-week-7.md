@@ -36,7 +36,6 @@ After that, we would want to go to insert from normal mode and type in the strin
  
 ![after_i][after_i.png]
   
-![esc_2][esc_2.png]
   
 After we have made the changes, we can directly go to the next occurrence of the string "start" by using 'n'
   
