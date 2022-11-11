@@ -85,4 +85,16 @@ Then, when we hit <Enter> we see that our file was modified by Vim and changes w
 ![vim_result][vim_result.png]
   
 ## Part 2
+
+### *Comparison of editing on remote with and without Vim*
   
+Time it took without Vim (Edit with VSC, then scp file, and run on remote) :
+  
+Time it took with Vim (log into remote, make the changes necessary using Vim, and run) :
+  
+Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?
+  
+
+What about the project or task might factor into your decision one way or another? (If nothing would affect your decision, say so and why!)
+  
+
