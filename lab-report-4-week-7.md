@@ -32,7 +32,7 @@ Then, we would want to delete "start". The easiest way to do this is by typing '
  
 After that, we would want to go to insert from normal mode and type in the string "base". We do this by typing 'i' followed by "base". Dont forget to press <Esc> after you made this change so that you can go back from insert to normal mode.
 
-![i](i.png)
+![i_1](i_1.png)
  
 ![after_i](after_i.png)
   
@@ -49,7 +49,7 @@ Then we can basically do the same thing with the first occurrence of "start" usi
   
 'i'
 
-![i1](i_1.png)
+![i](i.png)
   
 "base"
 
