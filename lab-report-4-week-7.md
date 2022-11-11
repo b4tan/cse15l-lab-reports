@@ -33,7 +33,10 @@ Then, we would want to delete "start". The easiest way to do this is by typing '
 After that, we would want to go to insert from normal mode and type in the string "base". We do this by typing 'i' followed by "base". Dont forget to press <Esc> after you made this change so that you can go back from insert to normal mode.
 
 ![i][i.png]
+ 
 ![after_i][after_i.png]
+  
+![esc_2][esc_2.png]
   
 After we have made the changes, we can directly go to the next occurrence of the string "start" by using 'n'
   
