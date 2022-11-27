@@ -57,3 +57,22 @@
 
 
 ## Three examples of repos being graded by my autograder
+
+#### The first repo
+
+This is my autograder with the link: https://github.com/ucsd-cse15l-f22/list-methods-lab3. As you can see here, the file didn't pass the test and has a few flaws.
+
+![first_repo][first_repo.png]
+
+This is my autograder with the link: https://github.com/ucsd-cse15l-f22/list-methods-corrected. As you can see here, the file passed all the test!
+
+![second_repo][second_repo.png]
+
+This is my autograder with the link: https://github.com/ucsd-cse15l-f22/list-methods-compile-error. As you can see here, the file didn't even compile.
+
+![third_repo][third_repo.png]
+
+## Detailed Explanation
+
+Let's go over the first repo:
+
