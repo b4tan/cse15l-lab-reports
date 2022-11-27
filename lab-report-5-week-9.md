@@ -74,5 +74,8 @@ This is my autograder with the link: https://github.com/ucsd-cse15l-f22/list-met
 
 ## Detailed Explanation
 
-Let's go over the first repo:
+Let's go over the first repo:         
 
+In my code, I have every if statement running because I set the condition to be "if the exit code is 0 i.e. if the test passes, then run this".       
+
+Here, we can see that the first course of action was to delete the student-submission directory and then clone the given link and place it inside of a directory called student-submission. If cloning the file was successful, then the exit code would return 0, which in this case is true. Then, because the exit code is 0, we enter the first if loop which checks if the exit code is 0 and echoes "[Passed] Clonned succesfully." if it is. If that wasn't the case, then the program will exit and echo "[FAILED] Clone failed. Check the submit URL."
