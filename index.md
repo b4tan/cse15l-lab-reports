@@ -19,5 +19,6 @@ at an early research program called ERSP. Outside of school, I enjoy doing other
 [Lab Report 1 Week 1](lab-report-1-week-1.html)        
 [Lab Report 2 Week 3](lab-report-2-week-3.html)          
 [Lab Report 3 Week 5](lab-report-3-week-5.html)                  
-[Lab Report 4 Week 7](lab-report-4-week-7.html)         
-[Branch](branch.html)
+[Lab Report 4 Week 7](lab-report-4-week-7.html)        
+[Lab Report 5 Week 9](lab-report-5-week-9.html)        
+[Branch](branch.html)       
